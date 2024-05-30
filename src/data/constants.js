@@ -183,8 +183,10 @@ export const projects = [
     id: 1,
     title: "Hunger Zone",
     date: "Nov 2023 - Jan 2024",
-    description:
-      "Hunger Zone is an Online Food Ordering App. Build this using SWIGGY's real time API.  Features Included ->   1. Search bar & Top rated filter option, 2. Lazy loading feature. 3. Add to cart & Remove from cart features.",
+    description:[
+      "Hunger Zone is an Online Food Ordering App. Build this using SWIGGY's real time API.  Features Included ->   1. Search bar & Top rated filter option, 2. Lazy loading feature. 3. Add to cart & Remove from cart features.  "   ,
+      "[  **NOTE : Without CORS Browser extension this app will not able to fetch data, You nedd to install CORS browser extension. **  ]"
+    ],
     image:
       "https://raw.githubusercontent.com/Saha-7/Hunger-Zone/main/Screenshots/home.png",
     tags: [
@@ -215,7 +217,7 @@ export const projects = [
   },
   {
     id: 3,
-    title: "MoviesHub x GPT",
+    title: "MoviesHub",
     date: "April - May 2024",
     description:
       " MOVIESHUBxGPT is a movie streaming platform like Netflix. Here users can Sign Up & Sign In with input validation. After logging in, redirected to the browse page. The movie trailer is running in the background.  Using Redux store to update User data, and movie data to the slice. TMDB API integration for Movies list. Different Custom Hooks are used for different types of movies. Build Movie card & Movies list from API data. User can Sign Out & FireBase for Authentication & Deploy",
@@ -224,7 +226,7 @@ export const projects = [
     tags: ["React Js", "FireBase", "Node JS", "Tailwind CSS", "JavaScript", "HTML", "REDUX"],
     category: "web app",
     github: "https://github.com/Saha-7/MoviesHub-x-GPT",
-    webapp: "https://my-movie-app-1f623.web.app/",
+    webapp: "https://movies-hub-x-gpt.vercel.app/",
   },
   {
     id: 4,
@@ -237,8 +239,7 @@ export const projects = [
     tags: ["Node JS", "JavaScript", "Post Man", "MongoDB"],
     category: "web app",
     github: "https://github.com/Saha-7/Course_Selling_App_Back-End",
-    webapp: "",
+    webapp: "https://course-selling-app-back-end.onrender.com/",
   }
   
 ];
-
