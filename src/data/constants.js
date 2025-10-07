@@ -7,7 +7,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Saha-7",
   resume:
-    "https://drive.google.com/file/d/1JEzicfIR7UNqs51nl_mu7RocDu25NJIE/view?usp=sharing",
+    "https://drive.google.com/file/d/1KGZnuCI3aMB4RY7d6CJRvcKqSLSMB4-F/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/pritamsaha7/",
   // twitter: "https://twitter.com/saha7pritam",
   // insta: "https://www.instagram.com/ig_saha7/",
@@ -224,8 +224,7 @@ export const projects = [
     date: "Jun 2025 - Present",
     description:
     "A Developer networking platform built with MERN stack, featuring secure authentication (JWT + bcrypt), real-time chat (Socket.io), connection requests with MongoDB indexing, and automated AWS SES notifications. Deployed on AWS EC2 with PM2 and Nginx for high availability and scalability.",
-    image:
-      "https://raw.githubusercontent.com/Saha-7/Task-Book/main/Screenshot/Tak%20book.png",
+    image: require("../images/DevFinder.png"),
     tags: ["React.js", "Redux", "JavaScript", "Node.js", "Express", "MongoDB", "Socket.io", "AWS", "Nginx", "PM2", "bcrypt", "JWT"],
     category: "web app",
     github: "https://github.com/Saha-7/DevFinder-UI",
