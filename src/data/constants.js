@@ -174,24 +174,24 @@ export const education = [
     desc: "I have completed Bachelor's degree in Computer Science and Engineering at Adamas University, Kolkata.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
-  // {
-  //   id: 1,
-  //   img: "https://img.icons8.com/color/48/school-building.png",
-  //   school: "Ramnagar Milan Bagan Siksha-Niketan",
-  //   date: "Apr 2016 - May 2017",
-  //   grade: "74%",
-  //   desc: "I completed my class XII high school education at Ramnagar Milan Bagan Siksha-Niketan School, Ranaghat. Where I studied Science.",
-  //   degree: "XII | Science",
-  // },
-  // {
-  //   id: 2,
-  //   img: "https://img.icons8.com/emoji/48/school-emoji.png",
-  //   school: "Ranaghat P.C High School",
-  //   date: "Feb 2014 - Apr 2015",
-  //   grade: "71.2%",
-  //   desc: "I completed my class X education with General studies.",
-  //   degree: "X | General",
-  // },
+  {
+    id: 1,
+    img: "https://img.icons8.com/color/48/school-building.png",
+    school: "Ramnagar Milan Bagan Siksha-Niketan",
+    date: "",
+    grade: "74%",
+    desc: "I completed my class XII high school education at Ramnagar Milan Bagan Siksha-Niketan School, Ranaghat. Where I studied Science.",
+    degree: "XII | Science",
+  },
+  {
+    id: 2,
+    img: "https://img.icons8.com/emoji/48/school-emoji.png",
+    school: "Ranaghat P.C High School",
+    date: "",
+    grade: "71.2%",
+    desc: "I completed my class X education with General studies.",
+    degree: "X | General",
+  },
 ];
 
 export const projects = [
