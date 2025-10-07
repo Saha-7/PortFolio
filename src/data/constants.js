@@ -1,9 +1,7 @@
 export const Bio = {
   name: "Pritam Saha",
   roles: [
-    "Full Stack Developer",
-    "Front-End Developer",
-    "Back-End Developer",
+    "Full Stack Developer"
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
@@ -176,24 +174,24 @@ export const education = [
     desc: "I have completed Bachelor's degree in Computer Science and Engineering at Adamas University, Kolkata.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
-  {
-    id: 1,
-    img: "https://img.icons8.com/color/48/school-building.png",
-    school: "Ramnagar Milan Bagan Siksha-Niketan",
-    date: "Apr 2016 - May 2017",
-    grade: "74%",
-    desc: "I completed my class XII high school education at Ramnagar Milan Bagan Siksha-Niketan School, Ranaghat. Where I studied Science.",
-    degree: "XII | Science",
-  },
-  {
-    id: 2,
-    img: "https://img.icons8.com/emoji/48/school-emoji.png",
-    school: "Ranaghat P.C High School",
-    date: "Feb 2014 - Apr 2015",
-    grade: "71.2%",
-    desc: "I completed my class X education with General studies.",
-    degree: "X | General",
-  },
+  // {
+  //   id: 1,
+  //   img: "https://img.icons8.com/color/48/school-building.png",
+  //   school: "Ramnagar Milan Bagan Siksha-Niketan",
+  //   date: "Apr 2016 - May 2017",
+  //   grade: "74%",
+  //   desc: "I completed my class XII high school education at Ramnagar Milan Bagan Siksha-Niketan School, Ranaghat. Where I studied Science.",
+  //   degree: "XII | Science",
+  // },
+  // {
+  //   id: 2,
+  //   img: "https://img.icons8.com/emoji/48/school-emoji.png",
+  //   school: "Ranaghat P.C High School",
+  //   date: "Feb 2014 - Apr 2015",
+  //   grade: "71.2%",
+  //   desc: "I completed my class X education with General studies.",
+  //   degree: "X | General",
+  // },
 ];
 
 export const projects = [
@@ -222,16 +220,16 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Task Book App",
-    date: "Feb 2024",
+    title: "DevFinder",
+    date: "Jun 2025 - Present",
     description:
-      " A Task manager App made with React JS, and Tailwind CSS. It has a Edit, Delete button & completed checkbox for each tasks. It also has a feature to show completed tasks.",
+    "A Developer networking platform built with MERN stack, featuring secure authentication (JWT + bcrypt), real-time chat (Socket.io), connection requests with MongoDB indexing, and automated AWS SES notifications. Deployed on AWS EC2 with PM2 and Nginx for high availability and scalability.",
     image:
       "https://raw.githubusercontent.com/Saha-7/Task-Book/main/Screenshot/Tak%20book.png",
-    tags: ["React Js", "Local Storage", "Node JS", "Tailwind CSS"],
+    tags: ["React.js", "Redux", "JavaScript", "Node.js", "Express", "MongoDB", "Socket.io", "AWS", "Nginx", "PM2", "bcrypt", "JWT"],
     category: "web app",
-    github: "https://github.com/Saha-7/Task-Book",
-    webapp: "https://task-book-nine.vercel.app/",
+    github: "https://github.com/Saha-7/DevFinder-UI",
+    webapp: "https://drive.google.com/file/d/1HrgmXG6_4QaaowUY6G6sG5rA-Yyurjz6/view?usp=sharing",
   },
   {
     id: 3,
@@ -258,6 +256,5 @@ export const projects = [
     category: "web app",
     github: "https://github.com/Saha-7/Course_Selling_App_Back-End",
     webapp: "https://course-selling-app-back-end.onrender.com",
-  }
-  
+  } 
 ];
