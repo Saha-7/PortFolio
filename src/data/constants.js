@@ -4,7 +4,7 @@ export const Bio = {
     "Full Stack Developer"
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "Full-stack developer specializing in React, Node.js, and cloud technologies. Passionate about building scalable applications and contributing to open source.",
   github: "https://github.com/Saha-7",
   resume:
     "https://drive.google.com/file/d/1KGZnuCI3aMB4RY7d6CJRvcKqSLSMB4-F/view?usp=sharing",
@@ -257,3 +257,4 @@ export const projects = [
     webapp: "https://course-selling-app-back-end.onrender.com",
   } 
 ];
+
