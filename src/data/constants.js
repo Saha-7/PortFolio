@@ -169,7 +169,7 @@ export const education = [
     id: 0,
     img: "https://th.bing.com/th/id/OIP.-2NAJRdcMVIksOMROTNfKAHaHa?w=129&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
     school: "Adamas University  ,  Kolkata",
-    date: "Aug 2018 - Jul 2022",
+    date: "2019 - 2023",
     grade: "8.1 CGPA",
     desc: "I have completed Bachelor's degree in Computer Science and Engineering at Adamas University, Kolkata.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
@@ -257,4 +257,5 @@ export const projects = [
     webapp: "https://course-selling-app-back-end.onrender.com",
   } 
 ];
+
 
